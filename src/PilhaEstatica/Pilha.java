@@ -1,4 +1,4 @@
-package PilhaEstática;
+package PilhaEstatica;
 
 public class Pilha {
 
