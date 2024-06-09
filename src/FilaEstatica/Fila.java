@@ -7,7 +7,7 @@ public class Fila {
     private int total;
 
     public Fila(){
-        valores = new int[];
+        valores = new int[10];
         inicio =0;
         fim = 0;
         total = 0;
