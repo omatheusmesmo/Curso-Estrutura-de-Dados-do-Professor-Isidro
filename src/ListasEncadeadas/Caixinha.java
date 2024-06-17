@@ -2,7 +2,7 @@ package ListasEncadeadas;
 
 public class Caixinha {
     private int elemento;
-    private int proximo;
+    private Caixinha  proximo;
 
     public void setElemento(int elemento){
         this.elemento = elemento;
