@@ -16,7 +16,7 @@ public class InserindoNoHash {
             chave = Integer.parseInt(texto);
             texto = teclado.next();
 
-            r new Registro(chave, texto);
+            r = new Registro(chave, texto);
             mapa.put(r);
 
             System.out.println("Continua? (1-sim/0-nao");
